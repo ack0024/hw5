@@ -70,10 +70,6 @@ function renderRides(ridesArray) {
 window.addEventListener('DOMContentLoaded', function() {
   // YOUR CODE
 
-  window.addEventListener('DOMContentLoaded', function() {
-    // YOUR CODE
-  
-  
   
   let AllRidesbutton = document.querySelector('#all-filter')
   AllRidesbutton.addEventListener('click', async function(eventall) {
@@ -177,5 +173,4 @@ window.addEventListener('DOMContentLoaded', function() {
   })
 
 
-})
 
